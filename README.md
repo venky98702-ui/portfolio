@@ -68,5 +68,3 @@ Then visit `http://localhost:8000`.
 - **LinkedIn:** [Ambati Venkateswarlureddy](https://www.linkedin.com/in/ambati-venkateswarlureddy-4a2999332)
 
 ---
-
-**Made with ❤️ by Ambati Venkateswarlureddy**
